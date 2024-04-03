@@ -1,0 +1,129 @@
+body {
+    background-color: aliceblue;
+}
+
+header { 
+    width: 960px;
+    margin: 30px auto 30px auto;
+}
+
+h1 {
+    font-weight: 900;
+    font-size: 32px;
+}
+
+h2 {
+    font-weight: 700;
+    font-size: 24px;
+    font-family: 'Quicksand', sans-serif;
+}
+
+section {
+    width: 960px;
+    border: black solid 5px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+.colors {
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+div {
+    display: inline-block;
+    width: 296px;
+    padding:10px;
+}
+
+.colors div {
+    
+    text-align: center;
+}
+
+h3 {
+    text-decoration: underline;
+}
+
+.skyblue {
+    background-color: #58B0F9;
+    color: white;
+}
+
+.mint {
+    background-color: #B3FAE3;
+    color: black;
+
+}
+
+.purple {
+    background-color: #B9A5F7;
+    color: black;
+
+}
+
+.fonts div {
+    text-align: left;
+}
+
+.fonts h3 {
+    text-decoration: underline;
+}
+
+.fonts p {
+    text-transform: none;
+    font-weight: normal;
+    height: 32px;
+    padding-bottom: 8px;
+}
+
+.barlow {
+    font-family: 'barlow', sans-serif;
+}
+
+.redditmono {
+    font-family: 'redditmono', monospace;
+}
+
+.quicksand {
+    font-family: 'quicksand', monospace;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.bold {
+    font-weight: bold !important;
+}
+
+li>p {
+    font-family: 'Reddit', monospace;
+}
+
+#blue {
+    color: blue;
+    background-color:white;
+}
+
+#mint {
+    color: #B3FAE3;
+    background-color: black;
+}
+
+#grey {
+    color: grey;
+    background-color: white;
+
+}
+
+#purple {
+    color: purple;
+    background-color: white;
+}
+
+.underline {
+    text-decoration: underline;
+}
